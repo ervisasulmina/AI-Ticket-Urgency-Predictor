@@ -40,11 +40,9 @@ Built with **Power Apps**, **Dataverse**, **Power Automate**, and **AI Builder (
 
 ---
 
-## 📸 Screenshots
+##
 
-| App | Flow |
-|------|------|
-| ![App Screenshot](image.png)|
+| (imageaiprediction.png)|
 
 ---
 
