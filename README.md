@@ -42,7 +42,7 @@ Built with **Power Apps**, **Dataverse**, **Power Automate**, and **AI Builder (
 
 ##
 
- (imageaiprediction.png)
+| !(imageaiprediction.png) |
 
 ---
 
