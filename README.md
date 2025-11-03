@@ -44,7 +44,7 @@ Built with **Power Apps**, **Dataverse**, **Power Automate**, and **AI Builder (
 
 | App | Flow |
 |------|------|
-| ![App Screenshot](Screenshots/app_gallery.png) | ![Flow Screenshot](Screenshots/flow_run.png) |
+| ![App Screenshot](image.png)|
 
 ---
 
